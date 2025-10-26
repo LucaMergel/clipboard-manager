@@ -1,0 +1,4 @@
+- Linux with GNOME desktop
+- Python 3.6+
+- GTK 3.0
+- AppIndicator3
