@@ -15,7 +15,7 @@ A simple clipboard history manager for Linux with GNOME desktop.
 
 ### Automatic Installation
 ```bash
-git clone https://github.com/yourusername/clipboard-manager.git
+git clone https://github.com/LucaMergel/clipboard-manager.git
 cd clipboard-manager
 chmod +x install.sh
 ./install.sh
